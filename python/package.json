@@ -337,7 +337,7 @@
     "ololog": "^1.1.175",
     "open": "^10.2.0",
     "ora": "^9.0.0",
-    "piscina": "^4.9.4",
+    "piscina": "^5.3.2",
     "protobufjs": "^7.5.3",
     "rollup": "^2.70.1",
     "rollup-plugin-execute": "1.1.1",
@@ -445,12 +445,12 @@
     "@noble/hashes": "2.2.0",
     "@scure/base": "2.2.0",
     "@scure/starknet": "2.2.0",
-    "undici": "7.30.2",
+    "undici": "8.13.1",
     "ws": "8.21.0"
   },
   "overrides": {
     "marked": "^4.0.10",
-    "piscina": "^4.9.4"
+    "piscina": "^5.3.2"
   },
   "optionalDependencies": {
     "bufferutil": "4.1.0",
